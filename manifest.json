@@ -1,6 +1,6 @@
 {
-    "name": "The Old Doctor's Notebook",
-    "short_name": "Doctor's Notebook",
+    "name": "Old Doctor's Gender Predictor",
+    "short_name": "Gender Predictor",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FBF6EF",
